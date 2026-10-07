@@ -11,3 +11,7 @@
 ## 3-3
 ### 실행 결과
 <img width="1396" height="207" alt="image" src="https://github.com/user-attachments/assets/e181db35-15d7-4b71-a2f0-ca59c7005a4a" />
+
+## 3-4
+### 실행 결과
+![Uploading image.png…]()
