@@ -14,4 +14,5 @@
 
 ## 3-4
 ### 실행 결과
-![Uploading image.png…]()
+<img width="1417" height="186" alt="image" src="https://github.com/user-attachments/assets/d091f400-1079-41db-9bc3-80918a0d8209" />
+
