@@ -19,3 +19,7 @@
 ## 3-5
 ### 실행 결과
 <img width="1385" height="200" alt="image" src="https://github.com/user-attachments/assets/71b29bb7-5ad1-412b-9f62-1d72c2bdc3a1" />
+
+## 3-6
+### 실행 결과
+<img width="1401" height="200" alt="image" src="https://github.com/user-attachments/assets/790cb5f7-47c1-4045-a952-bcea6720ab93" />
